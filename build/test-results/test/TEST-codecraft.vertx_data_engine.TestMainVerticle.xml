@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="codecraft.vertx_data_engine.TestMainVerticle" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-01T19:34:19" hostname="XFY20QM5X7" time="0.708">
+  <properties/>
+  <testcase name="verticle_deployed(Vertx, VertxTestContext)" classname="codecraft.vertx_data_engine.TestMainVerticle" time="0.708"/>
+  <system-out><![CDATA[HTTP server started on port 8888
+]]></system-out>
+  <system-err><![CDATA[Nov 01, 2023 1:34:19 PM io.netty.resolver.dns.DnsServerAddressStreamProviders <clinit>
+WARNING: Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+]]></system-err>
+</testsuite>
